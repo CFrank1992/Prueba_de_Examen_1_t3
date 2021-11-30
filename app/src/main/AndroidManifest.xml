@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PruebaDeExamen1T3">
         <activity
+            android:name=".MapActivity"
+            android:exported="false" />
+        <activity
             android:name=".DetailActivity"
             android:exported="false" />
         <activity
